@@ -1,8 +1,8 @@
 # Assignment 5 SciKit
-# Breast Cancer Classification (scikit-learn) — 3 Models + Best Model Selection
+# Breast Cancer Classification (scikit learn) — 3 Models + Best Model Selection
 
 ## Purpose
-This project demonstrates **machine learning classification** using Python and **scikit-learn** on real-world medical diagnostic data. It uses the built-in **Breast Cancer Wisconsin** dataset to train and evaluate **three different classification models** and determine which model performs best using standard train/validation/test splitting practices.
+This project demonstrates **machine learning classification** using Python and **scikit learn** on real-world medical diagnostic data. It uses the built-in **Breast Cancer Wisconsin** dataset to train and evaluate **three different classification models** and determine which model performs best using standard train/validation/test splitting practices.
 
 Early detection has played a major role in improving breast cancer outcomes, and classification models like these can help identify patterns that distinguish **malignant** vs **benign** cases.
 
